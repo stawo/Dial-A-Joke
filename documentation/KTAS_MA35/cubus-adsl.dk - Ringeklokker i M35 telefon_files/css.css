@@ -1,0 +1,138 @@
+body {
+	font-family: arial, verdana, sans-serif;
+	margin-top: 8px;
+}
+
+caption {
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	font-variant: small-caps;
+	font-size: 12pt;
+}
+
+.opdateret {
+	color:#cccccc;
+	font-family:arial, "sans serif";
+	font-size: 75%;
+}
+
+.opdateret_margin {
+	color:#cccccc;
+	font-family:"sans serif";
+	font-size: 75%;
+	line-height: 180%;
+}
+
+.artikelinfo {
+	color:gray;
+	font-family: arial, "sans serif";
+	font-size:80%;
+}
+
+.ext_links_ovskr {
+	color:gray;
+	font-weight: bold;
+	font-family: arial, "sans serif";
+	font-size:80%;
+}
+
+.ext_links {
+	color:gray;
+	font-family:arial, "sans serif";
+	font-size:80%;
+}
+
+.kategori {
+	color:white;
+}
+
+.kategori_sort {
+	color:black;
+}
+
+.tabelkat {
+	color:white;
+}
+
+.punkt {
+	color:#000000;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 11pt;
+}
+
+.links_div_af_lodr {
+	color:#000000;
+	font-family: arial;
+	font-size: 9pt;
+}
+
+.bundtekst {
+	font-family: arial;
+	font-size: 9pt;
+}
+
+.tabelskrift {
+	font-size: 11pt;
+}
+
+.margin_element_hoejre {
+	margin: 5px 0px 5px 10px;
+}
+
+.margin_element_venstre {
+	margin: 5px 10px 5px 0px;
+}
+
+.margin_element_center {
+	margin: 10px 0px 10px 0px;
+}
+
+li { 
+	margin-top: 6px; margin-bottom: 6px;
+}
+
+h2 { 
+	margin-top: 30px; margin-bottom: 15px;
+}
+
+h3 { 
+	margin-top: 30px; margin-bottom: 15px;
+}
+
+h4 { 
+	margin-top: 30px; margin-bottom: 15px;
+}
+
+h5 { 
+	margin-top: 30px; margin-bottom: 15px;
+}
+
+hr.afstand_til_links { 
+	margin-top: 20px; margin-bottom: 1em;
+}
+
+h2.afstand_til_rullemenu { 
+	margin-top: 10px; margin-bottom: 1em;
+}
+
+caption { 
+	margin-top: 15px; margin-bottom: 1em;
+}
+
+.citat {
+	font-family: "times new roman";
+	color: #646464;
+}
+
+.citat_salmonsen {
+	font-family: "times new roman";
+}
+
+.luft {
+	letter-spacing: 1.5pt;
+}
+
+.indryk {
+	text-indent: 2em;
+}
